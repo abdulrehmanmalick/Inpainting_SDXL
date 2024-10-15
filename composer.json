@@ -1,0 +1,12 @@
+{
+    "name": "hubaix/eric-code",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Abdul Rehman"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
